@@ -47,7 +47,7 @@ is_system_service = False
 
 [power pLed]
 type = gpio
-pin = gpio17
+pin = gpio4
 initial_state = off
 on_when_job_queued = True
 
