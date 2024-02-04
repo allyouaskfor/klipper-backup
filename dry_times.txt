@@ -1,0 +1,15 @@
+              Dryer           Drying
+ Filament     Temperature     Time (Hours)
+-------------------------------------------
+ PLA          55°C (131°F)     > 6  
+ ABS          65°C (149°F)     > 6  
+ PETG         65°C (149°F)     > 6  
+ Nylon        75°C (167°F)     > 24  
+ Desiccants   65°C (149°F)     > 6   
+ PVA          45°C (113°F)     > 24  
+ TPU/TPE      55°C (131°F)     > 8  
+ ASA          65°C (149°F)     > 8  
+ PP           55°C (131°F)     > 6  
+ HIPS         65°C (149°F)     > 8  
+ PC           75°C (167°F)     > 12  
+ PEEK        120°C (248°F)     > 24  
