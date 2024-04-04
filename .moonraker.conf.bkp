@@ -17,6 +17,7 @@ cors_domains =
 	*://app.fluidd.xyz
 	*:7136
 	*.local:7136
+	*://klippylyzer.github.io
 trusted_clients = 
 	10.0.0.0/8
 	127.0.0.0/8
