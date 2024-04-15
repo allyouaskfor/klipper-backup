@@ -2,6 +2,8 @@
 host = 0.0.0.0
 port = 7125
 
+[zeroconf]
+
 [file_manager]
 enable_object_processing = True
 

@@ -1,3 +1,0 @@
-camera="usb"
-camera_usb_options="-r 1920x1080 -f 15 -d /dev/video2"
-camera_http_options="-n -p 8081"
